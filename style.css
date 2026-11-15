@@ -71,7 +71,7 @@ header {
   background-color: #1f3a5f;
   color: #ffffff;
   text-align: center;
-  padding: 40px 20px 0;
+  padding: 40px 20px 30px;
 }
 
 header h1 {
@@ -113,7 +113,6 @@ nav {
   top: 0;
   z-index: 10;
   background-color: #16293f;
-  margin: 24px -20px 0;
   padding: 12px 10px;
   text-align: center;
 }
